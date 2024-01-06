@@ -1,4 +1,4 @@
-![logo](https://github.com/udaypratap01/uday-pratap-singh/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
+![logo](https://github.com/udaypratap01/udaypratap01/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Uday Pratap Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
